@@ -1,0 +1,17 @@
+q,programa,x,q,x
+q,id,x,q,xzy
+q,return,z,q,e
+q,id,y,q,c
+q,char,c,q,e
+q,int,c,q,e
+q,vetor,c,q,e
+q,id,z,q,c
+q,(,z,q,e
+q,),z,q,e
+q:{,z,q,e
+q:},z,q,e
+q:=,z,q,e
+q;,z,q,e
+q>,z,q,e
+q0,+,z,q,e
+
